@@ -1,4 +1,4 @@
-# Team: Avi & Helen
+# Team: Asif & Helen
 
 class Backer
     attr_accessor :backed_projects, :name
