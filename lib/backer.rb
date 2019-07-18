@@ -1,3 +1,5 @@
+# Team: Avi & Helen
+
 class Backer
     attr_accessor :backed_projects, :name
 
